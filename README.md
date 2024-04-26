@@ -29,4 +29,4 @@ To use the blog app first move to `api` directory and run the following command 
 ## Frontend
 Move to  `client` directory and run the following command `npm run start`. This will launch a react server with which we can use the blog app.
 
-Thank You!
+# Thank You!
